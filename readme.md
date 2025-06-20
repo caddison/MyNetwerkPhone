@@ -18,7 +18,7 @@
 
 ## 🌟 Revolutionary Features
 
-### 🧠 MyNetwerk Intelligence (Superior to Apple Intelligence)
+### 🧠 MyNetwerk Intelligence
 
 * ✨ 100% **On-Device AI** – Zero cloud dependency  
 * 🎯 **Voice Orchestrator** – Speak and control everything  

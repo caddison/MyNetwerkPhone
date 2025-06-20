@@ -16,9 +16,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/MyNetwerk?style=social)](https://twitter.com/MyNetwerk)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1" alt="MyNetwerkPhone" width="300"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/3fb92ed6-12be-42cc-8820-cb701e3b2ad8" alt="32A2EF6C-03F0-4393-9D14-088E4A6FA450" width="300"/>
+  <img src="https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1" alt="MyNetwerkPhone" heighth="500" width="300"/>
+  <img src="https://github.com/user-attachments/assets/3fb92ed6-12be-42cc-8820-cb701e3b2ad8" alt="32A2EF6C-03F0-4393-9D14-088E4A6FA450" heighth="500" width="300"/>
 </p>
 
 

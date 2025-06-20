@@ -31,7 +31,7 @@
 * 👆 **Full-Screen Fingerprint** – Touch anywhere to unlock  
 * 📸 **3D Face Recognition** – Depth + spoof prevention  
 * 🎭 **Behavioral Biometrics** – Your patterns, your signature  
-* 💥 **Anti-Forensics Mode** – Duress & data wipe options  
+* 💥 **Anti-Forensics Mode** – Duress & data wipe options & full disk encryption  
 
 ---
 

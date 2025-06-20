@@ -217,8 +217,8 @@ pie title Market Disruption
 **🌐 Website:** [Pine64EU Store](https://pine64.org/devices/pinephone/)  
 **📅 Launch Date:** 2026
 
-[![Notify Me](https://img.shields.io/badge/Get%20Launch%20Updates-blue?style=for-the-badge)](mailto:calvin_addison@yahoo.com)  
-[![Pre-Order Interest](https://img.shields.io/badge/Express%20Pre--Order%20Interest-green?style=for-the-badge)](mailto:calvin_addison@yahoo.com)
+[![Notify Me](https://img.shields.io/badge/Get%20Launch%20Updates-blue?style=for-the-badge)](mailto:g7485987384@yahoo.com)  
+[![Pre-Order Interest](https://img.shields.io/badge/Express%20Pre--Order%20Interest-green?style=for-the-badge)](mailto:g7485987384@yahoo.com)
 
 ---
 

@@ -213,7 +213,7 @@ pie title Market Disruption
 
 ## 📞 Contact & Pre-Launch Info
 
-**📧 Email:** [calvin_addison@yahoo.com](mailto:calvin_addison@yahoo.com)  
+**📧 Email:** [g7485987384@yahoo.com](mailto:g7485987384@yahoo.com)  
 **🌐 Website:** [Pine64EU Store](https://pine64eu.com/product/pinephone-pro-explorer-edition/)  
 **📅 Launch Date:** 2026
 

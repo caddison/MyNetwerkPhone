@@ -12,10 +12,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/MyNetwerk/Phone?style=social)](https://github.com/MyNetwerk/Phone)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/MyNetwerk?style=social)](https://twitter.com/MyNetwerk)
 
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1" alt="MyNetwerkPhone" width="500"/>
 </p>
----
 
 ## 🌟 Revolutionary Features
 

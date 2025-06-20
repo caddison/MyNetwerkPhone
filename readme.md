@@ -1,8 +1,7 @@
-# MyNetwerk Phone
 
+# 🔥 MyNetwerk Phone
 
-
-![MyNetwerk Phone](https://img.shields.io/badge/MyNetwerk-Phone-blue?style=for-the-badge\&logo=android\&logoColor=white)
+![MyNetwerk Phone](https://img.shields.io/badge/MyNetwerk-Phone-blue?style=for-the-badge&logo=android&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Revolutionary-red?style=for-the-badge)
 ![Launch](https://img.shields.io/badge/Launch-2026-green?style=for-the-badge)
 
@@ -10,13 +9,11 @@
 
 🚀 *Your Phone. Your Data. Your Choice. No Carriers Required.* 🚀
 
-[![GitHub stars](https://img.shields.io/github/stars/MyNetwerk/Phone?style=social)](https://github.com/MyNetwerk/Phone)
+[![GitHub stars](https://img.shields.io/github/stars/MyNetwerk/Phone?style=social)](https://github.com/MyNetwerk/Phone)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/MyNetwerk?style=social)](https://twitter.com/MyNetwerk)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1" alt="MyNetwerkPhone" width="500"/>
-</p>
-</div>
+![MyNetwerkPhone](https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1)
+![32A2EF6C-03F0-4393-9D14-088E4A6FA450](https://github.com/user-attachments/assets/3fb92ed6-12be-42cc-8820-cb701e3b2ad8)
 
 ---
 
@@ -24,18 +21,18 @@
 
 ### 🧠 MyNetwerk Intelligence (Superior to Apple Intelligence)
 
-* ✨ 100% **On-Device AI** – Zero cloud dependency
-* 🎯 **Voice Orchestrator** – Speak and control everything
-* 🤖 **Dedicated Action Agents** per task
-* 🗣️ Operate your phone through **Natural Conversation**
-* 📚 **Learns Locally**, never sends your data away
+* ✨ 100% **On-Device AI** – Zero cloud dependency  
+* 🎯 **Voice Orchestrator** – Speak and control everything  
+* 🤖 **Dedicated Action Agents** per task  
+* 🗣️ Operate your phone through **Natural Conversation**  
+* 📚 **Learns Locally**, never sends your data away  
 
 ### 🔐 Ultimate Biometric Security
 
-* 👆 **Full-Screen Fingerprint** – Touch anywhere to unlock
-* 📸 **3D Face Recognition** – Depth + spoof prevention
-* 🎭 **Behavioral Biometrics** – Your patterns, your signature
-* 💥 **Anti-Forensics Mode** – Duress & data wipe options
+* 👆 **Full-Screen Fingerprint** – Touch anywhere to unlock  
+* 📸 **3D Face Recognition** – Depth + spoof prevention  
+* 🎭 **Behavioral Biometrics** – Your patterns, your signature  
+* 💥 **Anti-Forensics Mode** – Duress & data wipe options  
 
 ---
 
@@ -73,14 +70,13 @@ graph TD
 
 ## 🗺️ Offline-First Navigation
 
-<details>
-<summary><strong>🧭 Intelligent Map Features</strong></summary>
+### 🧭 Intelligent Map Features
 
-* 🤖 AI preloads maps before you need them
-* 🔌 No internet required
-* 📥 Predictive offline downloads
-* 📊 Tiny data updates
-* 🔒 Private GPS: No data shared
+* 🤖 AI preloads maps before you need them  
+* 🔌 No internet required  
+* 📥 Predictive offline downloads  
+* 📊 Tiny data updates  
+* 🔒 Private GPS: No data shared  
 
 **Data Usage Comparison:**
 
@@ -89,8 +85,6 @@ graph TD
 | Google Maps   | 🔴 High    | 🔴 Poor    |
 | Apple Maps    | 🟡 Medium  | 🟡 Fair    |
 | **MyNetwerk** | 🟢 Minimal | 🟢 Perfect |
-
-</details>
 
 ---
 
@@ -150,29 +144,26 @@ Connectivity:
 
 | Model           | Price     | Typical Flagship | Savings    |
 | --------------- | --------- | ---------------- | ---------- |
-| MyNetwerk Phone | **\$349** | \$799+           | **\$450+** |
-| MyNetwerk Pro   | **\$449** | \$999+           | **\$550+** |
+| MyNetwerk Phone | **$349**  | $799+            | **$450+**  |
+| MyNetwerk Pro   | **$449**  | $999+            | **$550+**  |
 
 ---
 
 ## 🌍 Global Advantage
 
-<details>
-<summary><strong>🌎 Tailored for Developing Markets</strong></summary>
+### 🌎 Tailored for Developing Markets
 
-* 📱 **65% cheaper** than flagships
-* 📶 **90% less data use**
-* 💰 **\$0 monthly plans**
-* 🛠️ **Repairable design**
+* 📱 **65% cheaper** than flagships  
+* 📶 **90% less data use**  
+* 💰 **$0 monthly plans**  
+* 🛠️ **Repairable design**  
 
 **Market Fit:**
 
-* WiFi-first nations
-* Game-driven youth
-* Financial inclusion
-* Rugged terrain use
-
-</details>
+* WiFi-first nations  
+* Game-driven youth  
+* Financial inclusion  
+* Rugged terrain use  
 
 ---
 
@@ -223,23 +214,17 @@ pie title Market Disruption
 
 ## 📞 Contact & Pre-Launch Info
 
-**📧 Email:** [calvin\_addison@yahoo.com](mailto:calvin_addison@yahoo.com)
-**🌐 Website:** [Pine64EU Store](https://pine64eu.com/product/pinephone-pro-explorer-edition/)
+**📧 Email:** [calvin_addison@yahoo.com](mailto:calvin_addison@yahoo.com)  
+**🌐 Website:** [Pine64EU Store](https://pine64eu.com/product/pinephone-pro-explorer-edition/)  
 **📅 Launch Date:** 2026
 
-[![Notify Me](https://img.shields.io/badge/Get%20Launch%20Updates-blue?style=for-the-badge)](mailto:calvin_addison@yahoo.com)
+[![Notify Me](https://img.shields.io/badge/Get%20Launch%20Updates-blue?style=for-the-badge)](mailto:calvin_addison@yahoo.com)  
 [![Pre-Order Interest](https://img.shields.io/badge/Express%20Pre--Order%20Interest-green?style=for-the-badge)](mailto:calvin_addison@yahoo.com)
 
 ---
-
-<div align="center">
 
 ### 💫 *MyNetwerk Phone: The Future of Independent Mobile Computing*
 
 **"Your Phone. Your Data. Your Choice."**
 
 ⭐ *Star this repo to support digital freedom!* ⭐
-
-</div>
-
----

@@ -185,7 +185,7 @@ Connectivity:
 ## 🏆 Competitive Edge
 
 ```diff
-+ ✅ Works without carriers (no plans!)
++ ✅ Works without carriers (no plans)
 + ✅ Local-only AI (no spying)
 + ✅ Fully private browser
 + ✅ Offline-first apps

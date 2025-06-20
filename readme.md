@@ -15,7 +15,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/MyNetwerk/Phone?style=social)](https://github.com/MyNetwerk/Phone)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MyNetwerk?style=social)](https://twitter.com/MyNetwerk)
 
-![Hero Image](https://your-hosted-image-link-here.com/mynetwerk-hero.png)
+![MyNetwerkPhone](https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1)
+
+![32A2EF6C-03F0-4393-9D14-088E4A6FA450](https://github.com/user-attachments/assets/3fb92ed6-12be-42cc-8820-cb701e3b2ad8)
 
 </div>
 

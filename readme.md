@@ -1,6 +1,6 @@
 # MyNetwerk Phone
 
-<div align="left">
+
 
 ![MyNetwerk Phone](https://img.shields.io/badge/MyNetwerk-Phone-blue?style=for-the-badge\&logo=android\&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Revolutionary-red?style=for-the-badge)

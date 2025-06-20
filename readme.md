@@ -244,9 +244,3 @@ pie title Market Disruption
 </div>
 
 ---
-
-Let me know if you’d like:
-
-* Optimized image links for GitHub hosting
-* A `README.md` file export
-* A matching Figma layout or landing page version

@@ -1,8 +1,6 @@
----
-
 # MyNetwerk Phone
 
-<div align="center">
+<div align="left">
 
 ![MyNetwerk Phone](https://img.shields.io/badge/MyNetwerk-Phone-blue?style=for-the-badge\&logo=android\&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Revolutionary-red?style=for-the-badge)
@@ -16,11 +14,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/MyNetwerk?style=social)](https://twitter.com/MyNetwerk)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1" alt="MyNetwerkPhone" width="300"/>
+  <img src="https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1" alt="MyNetwerkPhone" width="500"/>
 </p>
-
-![MyNetwerkPhone](https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1)
-
 </div>
 
 ---

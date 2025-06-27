@@ -87,14 +87,14 @@ graph TD
 
 ---
 
-## 🛡️ MyNetwerk Secure Browser
+## 🛡️ MyNetwerk No Trust Browser
 
 | Feature             | Traditional      | MyNetwerk         |
 | ------------------- | ---------------- | ----------------- |
 | Banking & Finance   | 🔴 Multiple Apps | 🟢 All-in-One     |
 | Privacy             | 🔴 Tracked       | 🟢 No Tracking    |
-| Anti-Phishing       | 🔴 Basic         | 🟢 AI Defense     |
-| Built-in Utilities  | 🔴 None          | 🟢 All Tools      |
+| Anti-Phishing       | 🔴 Basic         | 🟢 Hacker Defense |
+| Built-in Utilities  | 🔴 Multiple Apps | 🟢 All Tools      |
 | Enterprise Security | 🔴 Weak          | 🟢 VPN & Lockdown |
 
 ---
@@ -104,8 +104,8 @@ graph TD
 | Music Hub         | Video Platform        | Creator Suite     |
 | ----------------- | --------------------- | ----------------- |
 | 🎶 Lossless Audio | 🎬 Offline Playback   | 📸 Photo Editor   |
-| 🎧 AI Curation    | 📺 Home Media Server  | 🎞️ Video Tools   |
-| 📱 Local Focus    | ⬇️ Any Format Support | 🔄 Social Sharing |
+| 🎧 AI Curation    | ⬇️ Media Server       | 🎞️ Video Tools    |
+| 📱 Local Focus    | 📺 Screen Casting     | 🔄 Social Sharing |
 
 ---
 
@@ -145,6 +145,7 @@ Connectivity:
 | --------------- | --------- | ---------------- | ---------- |
 | MyNetwerk Phone | **$349**  | $799+            | **$450+**  |
 | MyNetwerk Pro   | **$449**  | $999+            | **$550+**  |
+| MyNetwerk Tier 1| **$549**  | $1099+           | **$650+**  |
 
 ---
 

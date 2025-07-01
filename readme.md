@@ -133,7 +133,7 @@ Battery:
 
 Connectivity:
   WiFi 6, Bluetooth 5.3
-  GPS, Dual eSIM
+  GPS, Single SIM
   3.5mm jack, stereo speakers
 ```
 

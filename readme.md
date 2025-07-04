@@ -83,11 +83,11 @@ graph TD
 | ------------- | ---------- | ---------- |
 | Google Maps   | 🔴 High    | 🔴 Poor    |
 | Apple Maps    | 🟡 Medium  | 🟡 Fair    |
-| **MyNetwerk** | 🟢 Minimal | 🟢 Perfect |
+| MyNetwerk     | 🟢 Minimal | 🟢 Perfect |
 
 ---
 
-## 🛡️ MyNetwerk No Trust Browser
+## 🛡️ MyNetwerk Zero Trust Browser
 
 | Feature             | Traditional      | MyNetwerk         |
 | ------------------- | ---------------- | ----------------- |
@@ -173,7 +173,7 @@ Connectivity:
 | ---------------- | --------------- | ---------- |
 | Cloud Dependence | 🔴 Required     | 🟢 None    |
 | Tracking         | 🔴 Constant     | 🟢 Blocked |
-| AI Processing    | 🔴 Cloud-Based  | 🟢 Local   |
+| AI Processing    | 🔴 Cloud        | 🟢 Local   |
 | Data Ownership   | 🔴 Corporations | 🟢 User    |
 | Update Control   | 🔴 Forced       | 🟢 User    |
 

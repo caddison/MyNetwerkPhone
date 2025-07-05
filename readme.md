@@ -94,7 +94,7 @@ graph TD
 | Banking & Finance   | 🔴 Multiple Apps | 🟢 All-in-One     |
 | Privacy             | 🔴 Tracked       | 🟢 No Tracking    |
 | Anti-Phishing       | 🔴 Basic         | 🟢 Hacker Defense |
-| Built-in Utilities  | 🔴 Multiple Apps | 🟢 All Tools      |
+| Built-in Utilities  | 🔴 Multiple Apps | 🟢 All-in-One     |
 | Enterprise Security | 🔴 Weak          | 🟢 VPN & Lockdown |
 
 ---

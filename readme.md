@@ -104,7 +104,7 @@ graph TD
 | Music Hub         | Video Platform        | Creator Suite     |
 | ----------------- | --------------------- | ----------------- |
 | 🎶 Lossless Audio | 🎬 Offline Playback   | 📸 Photo Editor   |
-| 🎧 AI Curation    | ⬇️ Media Server       | 🎞️ Video Tools    |
+| 🎧 AI Curation    | ⬇️ My Media Server    | 🎞️ Video Tools    |
 | 📱 Local Focus    | 📺 Screen Casting     | 🔄 Social Sharing |
 
 ---

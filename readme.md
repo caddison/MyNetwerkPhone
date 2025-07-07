@@ -137,10 +137,10 @@ Connectivity:
 
 ## 💰 Pricing Strategy
 
-| Model            | Price     | Typical Flagship | Savings    |
-| ---------------- | --------- | ---------------- | ---------- |
-| MyNetwerk Basic  | **$349**  | $799+            | **$450+**  |
-| MyNetwerk Tier 1 | **$549**  | $1099+           | **$650+**  |
+| Model            | Price     | Big Brands  | Savings    |
+| ---------------- | --------- | ----------- | ---------- |
+| MyNetwerk Basic  | **$349**  | $799+       | **$450+**  |
+| MyNetwerk Tier 1 | **$549**  | $1099+      | **$650+**  |
 
 ---
 

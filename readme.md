@@ -24,13 +24,11 @@
 * 🎯 **Voice Orchestrator** – Speak and control everything  
 * 🤖 **Dedicated Action Agents** per task  
 * 🗣️ Operate your phone through **Natural Conversation**  
-* 📚 **Learns Locally**, never sends your data away  
 
 ### 🔐 Ultimate Biometric Security
 
 * 👆 **Full-Screen Fingerprint** – Touch anywhere to unlock  
 * 📸 **3D Face Recognition** – Depth + spoof prevention  
-* 🎭 **Behavioral Biometrics** – Your patterns, your signature  
 * 💥 **Anti-Forensics Mode** – Duress & data wipe options & full disk encryption  
 
 ---
@@ -53,7 +51,6 @@
 | 🔄 Landscape Mode | Console-like play       | ✅ |
 | 👾 Retro Library  | Classic titles built-in | ✅ |
 | 🔫 FPS Engine     | Custom multiplayer      | ✅ |
-| 🏆 Tournaments    | Local competitions      | ✅ |
 
 ### 🌐 Mesh Gaming Network
 
@@ -73,8 +70,7 @@ graph TD
 
 * 🤖 AI preloads maps before you need them  
 * 🔌 No internet required  
-* 📥 Predictive offline downloads  
-* 📊 Tiny data updates  
+* 📥 Predictive offline data updates  
 * 🔒 Private GPS: No data shared  
 
 **Data Usage Comparison:**
@@ -141,11 +137,10 @@ Connectivity:
 
 ## 💰 Pricing Strategy
 
-| Model           | Price     | Typical Flagship | Savings    |
-| --------------- | --------- | ---------------- | ---------- |
-| MyNetwerk Phone | **$349**  | $799+            | **$450+**  |
-| MyNetwerk Pro   | **$449**  | $999+            | **$550+**  |
-| MyNetwerk Tier 1| **$549**  | $1099+           | **$650+**  |
+| Model            | Price     | Typical Flagship | Savings    |
+| ---------------- | --------- | ---------------- | ---------- |
+| MyNetwerk Basic  | **$349**  | $799+            | **$450+**  |
+| MyNetwerk Tier 1 | **$549**  | $1099+           | **$650+**  |
 
 ---
 
@@ -193,8 +188,6 @@ Connectivity:
 + ✅ Gaming without internet
 + ✅ Worldwide WiFi support
 + ✅ Lower price than iPhone or Android
-- ❌ iPhone = Carrier lock + expensive
-- ❌ Android = Google tracking + bloatware
 ```
 
 ---
@@ -223,8 +216,4 @@ pie title Market Disruption
 
 ---
 
-### 💫 *MyNetwerk: The Future of Independent Mobile Computing*
-
-**"Your Phone. Your Data. Your Choice."**
-
-⭐ *Star this repo to support digital freedom!* ⭐
+### 💫 **"Your Phone. Your Data. Your Choice."**

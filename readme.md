@@ -142,13 +142,11 @@ Connectivity:
 
 * 📱 **65% cheaper** than flagships  
 * 📶 **90% less data use**  
-* 💰 **$0 monthly plans**  
 * 🛠️ **Repairable design**  
 
 **Market Fit:**
 
 * WiFi-first nations  
-* Game-driven youth  
 * Financial inclusion  
 * Rugged terrain use  
 

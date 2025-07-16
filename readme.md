@@ -114,9 +114,8 @@ Processor:
   Gaming Optimized
 
 Memory:
-  RAM: 6GB (8GB Pro)
-  Storage: 128GB (256GB Pro)
-  Expandable: MicroSD up to 1TB
+  RAM: 8GB (12GB Pro)
+  Storage: 256GB (1TB Pro)
 
 Display:
   6.5" FHD+ (2400x1080)
@@ -128,8 +127,7 @@ Battery:
   Qi Wireless, USB-C PD
 
 Connectivity:
-  WiFi 6, Bluetooth 5.3
-  GPS, Single SIM
+  WiFi 6, GPS, Single SIM
   3.5mm jack, stereo speakers
 ```
 

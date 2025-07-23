@@ -84,7 +84,7 @@ graph TD
 | ------------------- | ---------------- | -------------------------- |
 | Banking & Finance   | 🔴 Multiple Apps | 🟢 All-in-One              |
 | Privacy             | 🔴 Tracked       | 🟢 No Tracking             |
-| Built-in Utilities  | 🔴 Multiple Apps | 🟢 All-in-One              |
+| Built-in Utilities  | 🔴 Multiple Apps | 🟢 Agentic Workflows       |
 | Enterprise Security | 🔴 Weak          | 🟢 Virtual Private Network |
 
 ---

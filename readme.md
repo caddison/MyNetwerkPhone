@@ -116,7 +116,8 @@ Connectivity:
   3.5mm jack, stereo speakers
 
 Accesories:
-  Protective case, Magsafe wallet
+  Protective case, Magsafe wallet,
+  Headphones
 ```
 
 ---

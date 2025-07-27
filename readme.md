@@ -110,6 +110,7 @@ Processor:
 Memory:
   RAM: 8GB (12GB Pro)
   Storage: 256GB (1TB Pro)
+  Expandable: Up to 2TB MicroSD
 
 Display:
   6.5" FHD+ (2400x1080)

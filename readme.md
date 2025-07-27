@@ -7,8 +7,6 @@
 
 ### **The World's First Truly Independent Smartphone**
 
-🚀 *Your Phone. Your Data. Your Choice. No Carriers Required.* 🚀
-
 <p>
   <img src="https://github.com/user-attachments/assets/3d5f27bb-cfdd-4067-ba49-e6c73b1885a1" alt="MyNetwerkPhone" width="500"/>
 </p>

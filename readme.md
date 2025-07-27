@@ -114,6 +114,9 @@ Battery:
 Connectivity:
   WiFi 6, GPS, Single SIM
   3.5mm jack, stereo speakers
+
+Accesories:
+  Protective case, Magsafe wallet
 ```
 
 ---

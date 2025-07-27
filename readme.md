@@ -192,6 +192,3 @@ pie title Market Disruption
     "Business Users": 15
     "Travelers": 10
 ```
-
-
-### 💫 **"Your Phone. Your Data. Your Choice."**

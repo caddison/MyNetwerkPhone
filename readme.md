@@ -44,8 +44,8 @@
 
 | Feature           | Description             | ✅ |
 | ----------------- | ----------------------- | - |
-| 🎯 P2P Gaming     | No internet needed      | ✅ |
-| 🔄 Landscape Mode | Console-like play       | ✅ |
+| 🎯 P2P Gaming     | Wifi Direct             | ✅ |
+| 🔄 Landscape Mode | Console like play       | ✅ |
 | 👾 Retro Library  | Classic titles built-in | ✅ |
 
 ### 🌐 Mesh Gaming Network
@@ -68,14 +68,6 @@ graph TD
 * 🔌 No internet required  
 * 📥 Offline data updates  
 
-**Data Usage Comparison:**
-
-| Service       | Data Usage | Privacy    |
-| ------------- | ---------- | ---------- |
-| Google Maps   | 🔴 High    | 🔴 Poor    |
-| Apple Maps    | 🟡 Medium  | 🟡 Fair    |
-| MyNetwerk     | 🟢 Minimal | 🟢 Perfect |
-
 ---
 
 ## 🛡️ MyNetwerk Zero Trust Browser
@@ -84,7 +76,7 @@ graph TD
 | ------------------- | ---------------- | -------------------------- |
 | Banking & Finance   | 🔴 Multiple Apps | 🟢 All-in-One              |
 | Privacy             | 🔴 Tracked       | 🟢 No Tracking             |
-| Built-in Utilities  | 🔴 Multiple Apps | 🟢 Agentic Workflows       |
+| Built-in Utilities  | 🔴 Multiple Apps | 🟢 Agent Workflows         |
 | Enterprise Security | 🔴 Weak          | 🟢 Virtual Private Network |
 
 ---
@@ -94,7 +86,7 @@ graph TD
 | Music Hub         | Video Platform        | Creator Suite     |
 | ----------------- | --------------------- | ----------------- |
 | 🎶 Lossless Audio | 🎬 Offline Playback   | 📸 Photo Editor   |
-| 🎧 AI Curation    | ⬇️ My Media Server    | 🎞️ Video Tools    |
+| 🎧 AI Curation    | ⬇️ Media Server       | 🎞️ Video Tools    |
 | 📱 Local Focus    | 📺 Screen Casting     | 🔄 Social Sharing |
 
 ---
@@ -105,17 +97,20 @@ graph TD
 Processor:
   SoC: MediaTek Dimensity 6100+
   Architecture: 6nm, 8-core
-  Gaming Optimized
 
 Memory:
   RAM: 8GB (12GB Pro)
-  Storage: 256GB (1TB Pro)
+  Storage: 256GB (512GB Pro)
   Expandable: Up to 2TB MicroSD
 
 Display:
   6.5" FHD+ (2400x1080)
   IPS, 120Hz, Gorilla Glass 5
   Full-Screen Fingerprint
+
+Camera:
+  Front: 16 MP Sony IMX
+  Rear: 50 MP Sony IMX
 
 Battery:
   5000mAh, 33W fast charge
@@ -133,7 +128,7 @@ Connectivity:
 | Model            | Price     | Big Brands  | Savings    |
 | ---------------- | --------- | ----------- | ---------- |
 | MyNetwerk Basic  | **$349**  | $799+       | **$450+**  |
-| MyNetwerk Tier 1 | **$549**  | $1099+      | **$650+**  |
+| MyNetwerk Pro    | **$549**  | $1099+      | **$650+**  |
 
 ---
 
@@ -144,12 +139,6 @@ Connectivity:
 * 📱 **65% cheaper** than flagships  
 * 📶 **90% less data use**  
 * 🛠️ **Repairable design**  
-
-**Market Fit:**
-
-* WiFi-first nations  
-* Financial inclusion  
-* Rugged terrain use  
 
 ---
 
@@ -166,19 +155,6 @@ Connectivity:
 ![Privacy First](https://img.shields.io/badge/Privacy-First-blue?style=for-the-badge)
 ![Zero Cloud](https://img.shields.io/badge/Zero-Cloud-red?style=for-the-badge)
 ![Local AI](https://img.shields.io/badge/Local-AI-green?style=for-the-badge)
-
----
-
-## 🏆 Competitive Edge
-
-```diff
-+ ✅ Works without carriers
-+ ✅ Local-only AI 
-+ ✅ Fully private browser
-+ ✅ Offline-first apps
-+ ✅ Gaming without internet
-+ ✅ Worldwide WiFi support
-```
 
 ---
 

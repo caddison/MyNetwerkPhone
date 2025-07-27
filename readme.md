@@ -113,7 +113,7 @@ Camera:
   Rear: 50 MP Sony IMX
 
 Battery:
-  5000mAh, 33W fast charge
+  4500mAh, 27W fast charge
   Qi Wireless, USB-C PD
 
 Connectivity:

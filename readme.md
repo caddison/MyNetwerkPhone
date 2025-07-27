@@ -41,7 +41,7 @@
 
 | Feature           | Description             | ✅ |
 | ----------------- | ----------------------- | - |
-| 🎯 P2P Gaming     | Wifi Direct             | ✅ |
+| 🎯 P2P Gaming     | Wi-Fi Direct            | ✅ |
 | 🔄 Landscape Mode | Console like play       | ✅ |
 | 👾 Retro Library  | Classic titles built-in | ✅ |
 

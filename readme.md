@@ -26,10 +26,10 @@
 
 ---
 
-## 📡 Zero Carrier Dependency
+## 📡 No Carrier Dependency
 
 ```
-🚫 No SIM Required      |    🆓 WiFi Calling & Messaging
+🚫 No SIM Required      |    🆓 Wi-Fi Calling & Messaging
 🌐 Global Compatibility |    📦 Works Right Out of the Box
 ```
 
@@ -37,11 +37,11 @@
 
 ## 🎮 Gaming Powerhouse: Switch Meets Smartphone
 
-| Feature           | Description             | ✅ |
-| ----------------- | ----------------------- | - |
-| 🎯 P2P Gaming     | Wi-Fi Direct            | ✅ |
-| 🔄 Landscape Mode | Console like play       | ✅ |
-| 👾 Retro Library  | Classic titles built-in | ✅ |
+| Feature           | Description          | ✅ |
+| ----------------- | -------------------- | - |
+| 🎯 P2P Gaming     | Wi-Fi Direct         | ✅ |
+| 🔄 Landscape Mode | Console like play    | ✅ |
+| 👾 Retro Library  | Classics built-in    | ✅ |
 
 ### 🌐 Mesh Gaming Network
 

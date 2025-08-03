@@ -21,7 +21,7 @@
 
 ### 🔐 Ultimate Biometric Security
 
-* 👆 **Full-Screen Fingerprint** – Touch anywhere to unlock  
+* 👆 **Full Screen Fingerprint** – Touch anywhere to unlock  
 * 📸 **3D Face Recognition** – Depth + Spoof prevention  
 
 ---

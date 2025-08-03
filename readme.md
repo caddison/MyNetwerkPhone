@@ -112,7 +112,7 @@ Battery:
   Qi Wireless, USB-C PD
 
 Connectivity:
-  WiFi 6, GPS, Single SIM
+  WiFi 6, BT 5.3, GPS, Single SIM
   3.5mm jack, stereo speakers
 
 Accesories:

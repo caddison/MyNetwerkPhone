@@ -13,7 +13,7 @@
 
 ## 🌟 Revolutionary Features
 
-### 🧠 MyNetwerk Intelligence
+### 🧠 MyPhone Intelligence
 
 * ✨ 100% **On-Device AI** – Zero cloud dependency  
 * 🎯 **Voice Orchestrator** – Speak and control everything  
@@ -124,10 +124,10 @@ Accesories:
 
 ## 💰 Pricing Strategy
 
-| Model            | Price     | Big Brands  | Savings    |
-| ---------------- | --------- | ----------- | ---------- |
-| MyNetwerk Basic  | **$349**  | $799+       | **$450+**  |
-| MyNetwerk Pro    | **$549**  | $1099+      | **$650+**  |
+| Model            | Price     | Big Brands  | Savings  |
+| ---------------- | --------- | ----------- | -------- |
+| MyPhone Basic  | **$349**  | $799+       | **$450+**  |
+| MyPhone Pro    | **$549**  | $1099+      | **$650+**  |
 
 ---
 
